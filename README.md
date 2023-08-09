@@ -5,16 +5,17 @@
  <img src="https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif" width="600" height="300"/>
 </div>)
 
-I am data scientist ,more specifically in statistical analysis.I love:
-*research.
-*dancing.
-*Making an impact.
+I am data scientist ,more specifically in statistical analysis.
+I love,
+ *research.
+ *dancing.
+ *Making an impact.
 
 ##Skills
 
 
 ### Languages
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=purple)
 
 
 
