@@ -23,8 +23,8 @@ I love,
 ![matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### Packages
- ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
- ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+ ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=green)
+
  
 ### Tools and Technologies
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
