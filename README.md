@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I am Mercy Achieng'👋
+
+
+<div align="center">
+ <img src="https://media.giphy.com/media/sFdhuCRa0OaEbQDrBd/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **AchiengM/AchiengM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
