@@ -2,10 +2,9 @@
 
 
 <div align="center">
- <img src="https://media.giphy.com/media/sFdhuCRa0OaEbQDrBd/giphy.gif" width="600" height="300"/>
-</div>
+ <img src="https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif" width="600" height="300"/>
+</div>)
 
-<!--
 **AchiengM/AchiengM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
