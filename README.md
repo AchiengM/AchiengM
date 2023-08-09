@@ -1,4 +1,4 @@
-### Hi there I am Mercy Achieng'👋
+ ### Hi there I am Mercy Achieng'👋
 
 
 <div align="center">
@@ -11,12 +11,21 @@ I love,
  *dancing.
  *Making an impact.
 
-##Skills
 
+## Skills
+ Data analysis and manipulation.
 
 ### Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=purple)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+### ML/DL
+![matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### Packages
+ ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+ ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+ 
 ### Tools and Technologies
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   
@@ -26,7 +35,9 @@ I love,
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=pink)
 
 
-
+###Connect with me:
+<div id="badges">
+ <a href=https://
 
 
 
